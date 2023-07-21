@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/dinesh-boopalan/github-crash-course">
     <img src="Dinesh_2023.jpeg" alt="Logo" width="80" height="80">
   </a>
 
